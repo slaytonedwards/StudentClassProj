@@ -1,0 +1,7 @@
+E:\C# Class\StudentClassProj\StudentClassProj\bin\Debug\StudentClassProj.exe.config
+E:\C# Class\StudentClassProj\StudentClassProj\bin\Debug\StudentClassProj.exe
+E:\C# Class\StudentClassProj\StudentClassProj\bin\Debug\StudentClassProj.pdb
+E:\C# Class\StudentClassProj\StudentClassProj\obj\Debug\StudentClassProj.exe
+E:\C# Class\StudentClassProj\StudentClassProj\obj\Debug\StudentClassProj.pdb
+E:\C# Class\StudentClassProj\StudentClassProj\obj\Debug\StudentClassProj.csprojAssemblyReference.cache
+E:\C# Class\StudentClassProj\StudentClassProj\obj\Debug\StudentClassProj.csproj.CoreCompileInputs.cache
